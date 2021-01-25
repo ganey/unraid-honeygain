@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>HoneyGain</Name>
+  <Repository>honeygain/honeygain</Repository>
+  <Registry/>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project/>
+  <Overview>With Honeygain you can make money just for sharing internet. Start earning now.</Overview>
+  <Category/>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon>https://raw.githubusercontent.com/ganey/unraid-honeygain/master/icons/honeygain_logo.jpg</icon>
+  <ExtraParams/>
+  <PostArgs>-tou-accept -email ACCOUNT_EMAIL -pass ACCOUNT_PASS -device Unraid</PostArgs>
+  <DonateText>If you like it, then consider buying me a coffee</DonateText>
+  <DonateLink>https://www.buymeacoffee.com/ganey</DonateLink>
+  <DonateImg>https://img.buymeacoffee.com/api/?name=ganey&size=300&bg-image=bmc&background=79D6B5</DonateImg>
+  <Description>Earn money by sharing internet. UPDATE ACCOUNT DETAILS IN POST ARGUMENTS. Signup at https://r.honeygain.me/BUGAHA7B81</Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish/>
+  </Networking>
+  <Data/>
+  <Environment/>
+  <Labels/>
+</Container>
