@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project/>
-  <Overview>With Honeygain you can make money just for sharing internet. Start earning now.</Overview>
+  <Overview>With Honeygain you can make money just for sharing internet. Start earning now. UPDATE ACCOUNT DETAILS IN POST ARGUMENTS</Overview>
   <Category/>
   <WebUI/>
   <TemplateURL/>
@@ -18,7 +18,7 @@
   <PostArgs>-tou-accept -email ACCOUNT_EMAIL -pass ACCOUNT_PASS -device Unraid</PostArgs>
   <DonateText>If you like it, then consider buying me a coffee</DonateText>
   <DonateLink>https://www.buymeacoffee.com/ganey</DonateLink>
-  <DonateImg>https://img.buymeacoffee.com/api/?name=ganey&size=300&bg-image=bmc&background=79D6B5</DonateImg>
+  <DonateImg>https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png</DonateImg>
   <Description>Earn money by sharing internet. UPDATE ACCOUNT DETAILS IN POST ARGUMENTS. Signup at https://r.honeygain.me/BUGAHA7B81</Description>
   <Networking>
     <Mode>bridge</Mode>
