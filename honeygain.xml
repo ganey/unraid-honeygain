@@ -13,7 +13,7 @@
   <Category/>
   <WebUI/>
   <TemplateURL/>
-  <Icon>https://raw.githubusercontent.com/ganey/unraid-honeygain/main/honeygain_logo.jpg</icon>
+  <Icon>https://raw.githubusercontent.com/ganey/unraid-honeygain/main/honeygain_logo.jpg</Icon>
   <ExtraParams/>
   <PostArgs>-tou-accept -email ACCOUNT_EMAIL -pass ACCOUNT_PASS -device Unraid</PostArgs>
   <DonateText>If you like it, then consider buying me a coffee</DonateText>
